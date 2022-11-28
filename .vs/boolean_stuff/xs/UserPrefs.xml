@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F8DF3804-0EB2-4AA5-8BE6-9C94B3378FE6}|Default">
+  <MonoDevelop.Ide.ItemProperties.boolean__stuff PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="boolean_stuff/Program.cs">
+    <Files>
+      <File FileName="boolean_stuff/Program.cs" Line="65" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="boolean_stuff" expanded="True">
+            <Node name="boolean_stuff" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

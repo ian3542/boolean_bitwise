@@ -1,0 +1,15 @@
+/Users/ian/Projects/boolean_stuff/boolean_stuff/bin/Debug/net6.0/boolean_stuff
+/Users/ian/Projects/boolean_stuff/boolean_stuff/bin/Debug/net6.0/boolean_stuff.deps.json
+/Users/ian/Projects/boolean_stuff/boolean_stuff/bin/Debug/net6.0/boolean_stuff.runtimeconfig.json
+/Users/ian/Projects/boolean_stuff/boolean_stuff/bin/Debug/net6.0/boolean_stuff.dll
+/Users/ian/Projects/boolean_stuff/boolean_stuff/bin/Debug/net6.0/boolean_stuff.pdb
+/Users/ian/Projects/boolean_stuff/boolean_stuff/obj/Debug/net6.0/boolean_stuff.csproj.AssemblyReference.cache
+/Users/ian/Projects/boolean_stuff/boolean_stuff/obj/Debug/net6.0/boolean_stuff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ian/Projects/boolean_stuff/boolean_stuff/obj/Debug/net6.0/boolean_stuff.AssemblyInfoInputs.cache
+/Users/ian/Projects/boolean_stuff/boolean_stuff/obj/Debug/net6.0/boolean_stuff.AssemblyInfo.cs
+/Users/ian/Projects/boolean_stuff/boolean_stuff/obj/Debug/net6.0/boolean_stuff.csproj.CoreCompileInputs.cache
+/Users/ian/Projects/boolean_stuff/boolean_stuff/obj/Debug/net6.0/boolean_stuff.dll
+/Users/ian/Projects/boolean_stuff/boolean_stuff/obj/Debug/net6.0/refint/boolean_stuff.dll
+/Users/ian/Projects/boolean_stuff/boolean_stuff/obj/Debug/net6.0/boolean_stuff.pdb
+/Users/ian/Projects/boolean_stuff/boolean_stuff/obj/Debug/net6.0/boolean_stuff.genruntimeconfig.cache
+/Users/ian/Projects/boolean_stuff/boolean_stuff/obj/Debug/net6.0/ref/boolean_stuff.dll
